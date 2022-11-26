@@ -116,27 +116,22 @@ h1{
     
     
     .class1{ 
-        border: 1px solid red;
         margin-bottom: 2%;
         flex: 33%
     }
     .class2{
-        border: 1px solid red;
         margin-bottom: 2%;
         flex: 33%;
     }
     .class3{
-        border: 1px solid red;
         margin-bottom: 2%;
         flex: 33%;
     }
     .class4{
-        border: 1px solid red;
         margin-bottom: 2%;
         flex: 100%;
     }
     .class5{
-        border: 1px solid red;
         margin-bottom: 2%;
         flex: 100%;
     }
